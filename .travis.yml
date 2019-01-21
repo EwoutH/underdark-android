@@ -1,4 +1,8 @@
 language: android
+android:
+  components:
+    - build-tools-27.0.3
+    - android-22
 
 before_install:
  - cd udapp-demo
