@@ -3,6 +3,7 @@ android:
   components:
     - build-tools-27.0.3
     - android-22
+    - extra
 
 before_install:
  - cd udapp-demo
